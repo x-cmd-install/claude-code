@@ -1,60 +1,88 @@
 about:
-  description: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+  description:
+  |
+    Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
   license: NOASSERTION
   homepage: https://code.claude.com/docs/en/overview
   head: b3f0e50
   archived: false
   latestVersion: v2.1.260
-  collectedAt: 2026-09-04T04:39:39Z
+  collectedAt: 2026-09-04T19:38:34Z
 timeline:
   created: 2025-02-22
   lastCommit: 2026-09-03
   lastRelease: 2026-09-03
 popularity:
-  star: 143984
+  star: 144066
   watcher: 875
-  fork: 23010
+  fork: 23017
   release: 208
-  contributor: 399
-  pullRequest: 1113
-  issue: 89224
+  contributor: 66
+  pullRequest: 1276
+  issue: 89442
 language:
   Python: 368691
   Shell: 63477
   TypeScript: 23117
   PowerShell: 5319
   Dockerfile: 2507
-totalLine: 463111
+totalBytes: 463111
 recent:
   last30d:
     since: 2026-08-05
     release: 29
     mergedPR: 1
     openPR: 20
-    closedIssue: 1433
-    openIssue: 6175
+    closedIssue: 1449
+    openIssue: 6374
     commit: 31
+  last60d:
+    since: 2026-07-06
+    release: 49
+    mergedPR: 2
+    openPR: 105
+    closedIssue: 5379
+    openIssue: 11603
+    commit: 53
   last90d:
     since: 2026-06-06
     release: 77
     mergedPR: 7
     openPR: 152
-    closedIssue: 13245
-    openIssue: 12487
+    closedIssue: 13571
+    openIssue: 12379
     commit: 88
   last180d:
     since: 2026-03-08
     release: 100
     mergedPR: 18
     openPR: 486
-    closedIssue: 45341
-    openIssue: 13098
+    closedIssue: 45675
+    openIssue: 12982
     commit: 190
   last360d:
     since: 2025-09-09
     release: 100
     mergedPR: 88
     openPR: 714
-    closedIssue: 68402
-    openIssue: 13708
+    closedIssue: 68736
+    openIssue: 13592
     commit: 449
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 163
+    openPR: 721
+    closedIssue: 75738
+    openIssue: 13694
+    commit: 750
+total:
+  release: 208
+  mergedPR: 163
+  openPR: 721
+  closedIssue: 75748
+  openIssue: 13694
+  commit: 750
+---
+---
+
