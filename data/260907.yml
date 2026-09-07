@@ -5,19 +5,19 @@ about:
   head: ab9b2cf
   archived: false
   latestVersion: "v2.1.263"
-  collectedAt: 2026-09-07T05:45:31Z
+  collectedAt: 2026-09-07T18:41:39Z
 timeline:
   created: 2025-02-22
   lastCommit: 2026-09-06
   lastRelease: 2026-09-06
 popularity:
-  star: 144297
-  watcher: 871
-  fork: 23048
+  star: 144355
+  watcher: 873
+  fork: 23061
   release: 210
   contributor: 66
   pullRequest: 1277
-  issue: 89841
+  issue: 89954
 language:
   Python: 368691
   Shell: 63477
@@ -31,59 +31,59 @@ recent:
     release: 29
     mergedPR: 1
     openPR: 13
-    closedIssue: 1356
-    openIssue: 6079
+    closedIssue: 1375
+    openIssue: 6174
     commit: 25
   last60d:
     since: 2026-07-09
     release: 47
     mergedPR: 2
     openPR: 101
-    closedIssue: 5993
-    openIssue: 10224
+    closedIssue: 6122
+    openIssue: 10208
     commit: 47
   last90d:
     since: 2026-06-09
     release: 75
     mergedPR: 7
     openPR: 130
-    closedIssue: 14479
-    openIssue: 11115
+    closedIssue: 14611
+    openIssue: 11096
     commit: 82
   last180d:
     since: 2026-03-11
     release: 100
     mergedPR: 18
     openPR: 427
-    closedIssue: 46309
-    openIssue: 11722
+    closedIssue: 46444
+    openIssue: 11700
     commit: 184
   last360d:
     since: 2025-09-12
     release: 100
     mergedPR: 88
-    openPR: 698
-    closedIssue: 70204
-    openIssue: 12357
+    openPR: 697
+    closedIssue: 70339
+    openIssue: 12335
     commit: 448
   last720d:
     since: 2024-09-17
     release: 100
     mergedPR: 163
-    openPR: 705
-    closedIssue: 77367
-    openIssue: 12464
+    openPR: 704
+    closedIssue: 77502
+    openIssue: 12442
     commit: 752
 total:
   release: 210
   mergedPR: 163
-  openPR: 705
-  closedIssue: 77377
-  openIssue: 12464
+  openPR: 704
+  closedIssue: 77512
+  openIssue: 12442
   commit: 752
 ---
 path: /home/runner/.x-repo/github.com/anthropics/claude-code
-collectedAt: 2026-09-07T05:45:34Z
+collectedAt: 2026-09-07T18:41:41Z
 loc:
   Python:
     code: 5651
@@ -139,7 +139,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:45:35+00:00
+  collectedAt: 2026-09-07T18:41:42+00:00
   platform:
     darwin/arm64:
       name:  claude-darwin-arm64.tar.gz
