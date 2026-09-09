@@ -2,26 +2,26 @@ about:
   description: "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
   license: NOASSERTION
   homepage: https://code.claude.com/docs/en/overview
-  head: ab9b2cf
+  head: 347b38e
   archived: false
-  latestVersion: "v2.1.263"
-  latestRelease: "v2.1.263"
+  latestVersion: "v2.1.266"
+  latestRelease: "v2.1.266"
   latestPrerelease: ""
-  collectedAt: 2026-09-08T12:03:00Z
+  collectedAt: 2026-09-09T05:53:58Z
 timeline:
   created: 2025-02-22
-  lastCommit: 2026-09-06
-  lastVersion: 2026-09-06
-  lastRelease: 2026-09-06
+  lastCommit: 2026-09-08
+  lastVersion: 2026-09-08
+  lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 144419
-  watcher: 873
-  fork: 23069
-  release: 210
+  star: 144493
+  watcher: 871
+  fork: 23066
+  release: 212
   contributor: 66
   pullRequest: 1277
-  issue: 90076
+  issue: 90240
 language:
   Python: 368691
   Shell: 63477
@@ -31,63 +31,63 @@ language:
 totalBytes: 463111
 recent:
   last30d:
-    since: 2026-08-09
-    release: 27
+    since: 2026-08-10
+    release: 29
     mergedPR: 1
-    openPR: 11
-    closedIssue: 1382
-    openIssue: 6026
-    commit: 25
+    openPR: 10
+    closedIssue: 1349
+    openIssue: 5973
+    commit: 27
   last60d:
-    since: 2026-07-10
-    release: 47
+    since: 2026-07-11
+    release: 48
     mergedPR: 2
-    openPR: 97
-    closedIssue: 6477
-    openIssue: 9665
-    commit: 47
+    openPR: 94
+    closedIssue: 6508
+    openIssue: 9554
+    commit: 49
   last90d:
-    since: 2026-06-10
-    release: 74
+    since: 2026-06-11
+    release: 75
     mergedPR: 7
     openPR: 128
-    closedIssue: 14685
-    openIssue: 10595
-    commit: 82
+    closedIssue: 14526
+    openIssue: 10502
+    commit: 84
   last180d:
-    since: 2026-03-12
+    since: 2026-03-13
     release: 100
     mergedPR: 17
-    openPR: 425
-    closedIssue: 46669
-    openIssue: 11208
-    commit: 184
+    openPR: 422
+    closedIssue: 46527
+    openIssue: 11128
+    commit: 186
   last360d:
-    since: 2025-09-13
+    since: 2025-09-14
     release: 100
     mergedPR: 88
     openPR: 697
-    closedIssue: 70920
-    openIssue: 11844
-    commit: 448
+    closedIssue: 71119
+    openIssue: 11772
+    commit: 450
   last720d:
-    since: 2024-09-18
+    since: 2024-09-19
     release: 100
     mergedPR: 163
     openPR: 704
-    closedIssue: 78113
-    openIssue: 11953
-    commit: 752
+    closedIssue: 78349
+    openIssue: 11881
+    commit: 754
 total:
-  release: 210
+  release: 212
   mergedPR: 163
   openPR: 704
-  closedIssue: 78123
-  openIssue: 11953
-  commit: 752
+  closedIssue: 78359
+  openIssue: 11881
+  commit: 754
 ---
 path: /home/runner/.x-repo/github.com/anthropics/claude-code
-collectedAt: 2026-09-08T12:03:03Z
+collectedAt: 2026-09-09T05:54:01Z
 loc:
   Python:
     code: 5651
@@ -105,7 +105,7 @@ loc:
     blanks: 162
     files: 8
   Xml:
-    code: 822
+    code: 838
     comments: 0
     blanks: 0
     files: 1
@@ -131,15 +131,15 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 17823
-    blanks: 5824
+    comments: 17876
+    blanks: 5828
     files: 103
 total:
-  code: 13519
-  comments: 25428
-  blanks: 8897
+  code: 13535
+  comments: 25481
+  blanks: 8901
   files: 174
 ---
 
 ---
-{"id":383433044,"author":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDON91aY84W2rlU","tag_name":"v2.1.263","target_commitish":"main","name":"v2.1.263","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-06T02:54:14Z","updated_at":"2026-09-06T02:54:20Z","published_at":"2026-09-06T02:54:20Z","assets":[{"id":546595143,"node_id":"RA_kwDON91aY84glGFH","name":"claude-darwin-arm64.tar.gz","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":85649600,"digest":"sha256:c41b084242538dc94adb60b9cc74dab7571e1eb1d51ac7fb6c60fa9f16531765","download_count":1925,"created_at":"2026-09-06T02:04:26Z","updated_at":"2026-09-06T02:04:29Z"},{"id":546595142,"node_id":"RA_kwDON91aY84glGFG","name":"claude-darwin-x64.tar.gz","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":90150079,"digest":"sha256:459314a8bd2116f69cbd78caaa7c2d03f966a3aeaa7ffb6327f1f5f9e7d3b83a","download_count":195,"created_at":"2026-09-06T02:04:26Z","updated_at":"2026-09-06T02:04:30Z"},{"id":546595140,"node_id":"RA_kwDON91aY84glGFE","name":"claude-linux-arm64-musl.tar.gz","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":93246809,"digest":"sha256:7d49674fd10bbf7d0e5989bd300aaa8dce4c2ecfec66d2c19a82fe4ec84bfeb8","download_count":69,"created_at":"2026-09-06T02:04:26Z","updated_at":"2026-09-06T02:04:30Z"},{"id":546595138,"node_id":"RA_kwDON91aY84glGFC","name":"claude-linux-arm64.tar.gz","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":95526003,"digest":"sha256:cba2e616346c4f45f7fe468297bcc186d84ee6c292b2b1814b9be190b1da49be","download_count":1132,"created_at":"2026-09-06T02:04:26Z","updated_at":"2026-09-06T02:04:30Z"},{"id":546595141,"node_id":"RA_kwDON91aY84glGFF","name":"claude-linux-x64-musl.tar.gz","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":93558551,"digest":"sha256:9a96f0e03cea5ebbb3af9b70cde7dc145ed33c7912735cbeee1f923f55de0585","download_count":70,"created_at":"2026-09-06T02:04:26Z","updated_at":"2026-09-06T02:04:32Z"},{"id":546595199,"node_id":"RA_kwDON91aY84glGF_","name":"claude-linux-x64.tar.gz","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":95678748,"digest":"sha256:7f1444a22ba7c0949b728a19511ed8e47d218ab23b32dbb0a557fe9798ad7ce6","download_count":17254,"created_at":"2026-09-06T02:04:30Z","updated_at":"2026-09-06T02:04:34Z"},{"id":546595218,"node_id":"RA_kwDON91aY84glGGS","name":"claude-win32-arm64.zip","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":94833680,"digest":"sha256:7f4ecd3c914dc5dc3f46a2c9004fa8ccf4bed6b963a2a303764eb6572a79382e","download_count":107,"created_at":"2026-09-06T02:04:30Z","updated_at":"2026-09-06T02:04:35Z"},{"id":546595222,"node_id":"RA_kwDON91aY84glGGW","name":"claude-win32-x64.zip","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":98320700,"digest":"sha256:7b19749afc1f2298e5015f8ff2a5944c649f393c8b09f7bbc61544c209b8dc3c","download_count":1051,"created_at":"2026-09-06T02:04:30Z","updated_at":"2026-09-06T02:04:35Z"},{"id":546595220,"node_id":"RA_kwDON91aY84glGGU","name":"SHASUMS256.txt","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"text/plain; charset=utf-8","state":"uploaded","size":734,"digest":"sha256:d7a124f211926ec44873805eac9ebf29daa37df67e8ea44c164918b25d0489c3","download_count":411,"created_at":"2026-09-06T02:04:30Z","updated_at":"2026-09-06T02:04:30Z"},{"id":546595225,"node_id":"RA_kwDON91aY84glGGZ","name":"SHASUMS256.txt.sig","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/pgp-signature","state":"uploaded","size":833,"digest":"sha256:2e83dde8d62af5c984535b8942105afe5914e19ae05421d475bce209bba4fe3a","download_count":34,"created_at":"2026-09-06T02:04:31Z","updated_at":"2026-09-06T02:04:31Z"}],"body":"## What's changed\n\n- Bug fixes and reliability improvements\n","reactions":{"total_count":44,"+1":16,"-1":0,"laugh":4,"hooray":8,"confused":0,"heart":5,"rocket":6,"eyes":5}}
+{"id":385124520,"author":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDON91aY84W9Iio","tag_name":"v2.1.266","target_commitish":"main","name":"v2.1.266","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-08T23:55:08Z","updated_at":"2026-09-08T23:55:14Z","published_at":"2026-09-08T23:55:14Z","assets":[{"id":551525497,"node_id":"RA_kwDON91aY84g35x5","name":"claude-darwin-arm64.tar.gz","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":85620195,"digest":"sha256:0fef53e10206aa3e819f0c156313ac67574c1d9be44355f3587c1f08688df4e5","download_count":136,"created_at":"2026-09-08T23:28:47Z","updated_at":"2026-09-08T23:28:52Z"},{"id":551525500,"node_id":"RA_kwDON91aY84g35x8","name":"claude-darwin-x64.tar.gz","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":90066835,"digest":"sha256:4391769450d2f4935e5503aee98dcd7863bcbd293838031dc241d1ea5dbc9f26","download_count":31,"created_at":"2026-09-08T23:28:47Z","updated_at":"2026-09-08T23:28:53Z"},{"id":551525494,"node_id":"RA_kwDON91aY84g35x2","name":"claude-linux-arm64-musl.tar.gz","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":93356570,"digest":"sha256:1ca59f3f2c25cb5df48af1718444256c1eba617737088c18bf44402ae81f5f7a","download_count":15,"created_at":"2026-09-08T23:28:47Z","updated_at":"2026-09-08T23:28:53Z"},{"id":551525499,"node_id":"RA_kwDON91aY84g35x7","name":"claude-linux-arm64.tar.gz","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":95634388,"digest":"sha256:88b299b5854d00a2788131d312f06c436fac5e58a014e06c7566587d759bb4f8","download_count":117,"created_at":"2026-09-08T23:28:47Z","updated_at":"2026-09-08T23:28:52Z"},{"id":551525495,"node_id":"RA_kwDON91aY84g35x3","name":"claude-linux-x64-musl.tar.gz","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":93623130,"digest":"sha256:a1b87ad4e757b429fa94a1d1fd452dc25d67f75e3fbdc995d62511166d375e39","download_count":14,"created_at":"2026-09-08T23:28:47Z","updated_at":"2026-09-08T23:28:52Z"},{"id":551525634,"node_id":"RA_kwDON91aY84g350C","name":"claude-linux-x64.tar.gz","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":95744172,"digest":"sha256:80e04708880470c6d566a414fbc55c52059631feb7cc54537d1d4b39786b20d9","download_count":2458,"created_at":"2026-09-08T23:28:52Z","updated_at":"2026-09-08T23:28:56Z"},{"id":551525640,"node_id":"RA_kwDON91aY84g350I","name":"claude-win32-arm64.zip","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":94967794,"digest":"sha256:4eaf374432532aaa18b0471e4a840751f5df232623d7bb62d9ab97f5a3e01239","download_count":22,"created_at":"2026-09-08T23:28:53Z","updated_at":"2026-09-08T23:28:56Z"},{"id":551525641,"node_id":"RA_kwDON91aY84g350J","name":"claude-win32-x64.zip","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":98407893,"digest":"sha256:741120655b10b0134bc3189fb1d8ca9d899e55931182a3df309b8f3dd0a3fa2b","download_count":159,"created_at":"2026-09-08T23:28:53Z","updated_at":"2026-09-08T23:28:57Z"},{"id":551525651,"node_id":"RA_kwDON91aY84g350T","name":"SHASUMS256.txt","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"text/plain; charset=utf-8","state":"uploaded","size":734,"digest":"sha256:c392a694e238b29f06f0a1deb460ddd50e36022d813647b110d3884879116df4","download_count":42,"created_at":"2026-09-08T23:28:53Z","updated_at":"2026-09-08T23:28:53Z"},{"id":551525655,"node_id":"RA_kwDON91aY84g350X","name":"SHASUMS256.txt.sig","label":"","uploader":{"login":"ashwin-ant","id":178951676,"node_id":"U_kgDOCqqV_A","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/pgp-signature","state":"uploaded","size":833,"digest":"sha256:1a8f2706514ca45954893d9a9641c9b9ce7a21229d4a3f5c1f80b360faaab877","download_count":8,"created_at":"2026-09-08T23:28:53Z","updated_at":"2026-09-08T23:28:54Z"}],"body":"## What's changed\n\n- Fixed a 2.1.265 regression affecting LLM-gateway and proxy setups: the undocumented `CLAUDE_CODE_USE_GATEWAY` environment variable, previously ignored unless `ANTHROPIC_BASE_URL` and `ANTHROPIC_AUTH_TOKEN` were both set, began forcing Cloud-gateway sign-in on its own in 2.1.265, so configurations that set it alongside an API key, `apiKeyHelper`, or custom auth headers failed every request with \"Not signed in to the Cloud gateway\". The variable on its own is ignored again; no configuration change is needed\n","reactions":{"total_count":20,"+1":5,"-1":0,"laugh":3,"hooray":3,"confused":0,"heart":2,"rocket":4,"eyes":3}}

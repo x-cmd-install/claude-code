@@ -1,0 +1,144 @@
+about:
+  description: "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+  license: NOASSERTION
+  homepage: https://code.claude.com/docs/en/overview
+  head: 347b38e
+  archived: false
+  latestVersion: "v2.1.266"
+  latestRelease: "v2.1.266"
+  latestPrerelease: ""
+  collectedAt: 2026-09-09T05:53:58Z
+timeline:
+  created: 2025-02-22
+  lastCommit: 2026-09-08
+  lastVersion: 2026-09-08
+  lastRelease: 2026-09-08
+  lastPrerelease: 
+popularity:
+  star: 144493
+  watcher: 871
+  fork: 23066
+  release: 212
+  contributor: 66
+  pullRequest: 1277
+  issue: 90240
+language:
+  Python: 368691
+  Shell: 63477
+  TypeScript: 23117
+  PowerShell: 5319
+  Dockerfile: 2507
+totalBytes: 463111
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 29
+    mergedPR: 1
+    openPR: 10
+    closedIssue: 1349
+    openIssue: 5973
+    commit: 27
+  last60d:
+    since: 2026-07-11
+    release: 48
+    mergedPR: 2
+    openPR: 94
+    closedIssue: 6508
+    openIssue: 9554
+    commit: 49
+  last90d:
+    since: 2026-06-11
+    release: 75
+    mergedPR: 7
+    openPR: 128
+    closedIssue: 14526
+    openIssue: 10502
+    commit: 84
+  last180d:
+    since: 2026-03-13
+    release: 100
+    mergedPR: 17
+    openPR: 422
+    closedIssue: 46527
+    openIssue: 11128
+    commit: 186
+  last360d:
+    since: 2025-09-14
+    release: 100
+    mergedPR: 88
+    openPR: 697
+    closedIssue: 71119
+    openIssue: 11772
+    commit: 450
+  last720d:
+    since: 2024-09-19
+    release: 100
+    mergedPR: 163
+    openPR: 704
+    closedIssue: 78349
+    openIssue: 11881
+    commit: 754
+total:
+  release: 212
+  mergedPR: 163
+  openPR: 704
+  closedIssue: 78359
+  openIssue: 11881
+  commit: 754
+---
+path: /home/runner/.x-repo/github.com/anthropics/claude-code
+collectedAt: 2026-09-09T05:54:01Z
+loc:
+  Python:
+    code: 5651
+    comments: 1182
+    blanks: 742
+    files: 21
+  Sh:
+    code: 2352
+    comments: 671
+    blanks: 370
+    files: 20
+  Hcl:
+    code: 1013
+    comments: 212
+    blanks: 162
+    files: 8
+  Xml:
+    code: 838
+    comments: 0
+    blanks: 0
+    files: 1
+  TypeScript:
+    code: 597
+    comments: 24
+    blanks: 128
+    files: 5
+  Json:
+    code: 287
+    comments: 0
+    blanks: 0
+    files: 12
+  PowerShell:
+    code: 111
+    comments: 49
+    blanks: 20
+    files: 2
+  Dockerfile:
+    code: 25
+    comments: 64
+    blanks: 13
+    files: 2
+  Markdown:
+    code: 0
+    comments: 17876
+    blanks: 5828
+    files: 103
+total:
+  code: 13535
+  comments: 25481
+  blanks: 8901
+  files: 174
+---
+
+---
