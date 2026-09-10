@@ -1,52 +1,52 @@
 # claude-code
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
-![claude-code](https://repo.x-cmd.io/claude-code.svg)
+![claude-code](https://repo.x-cmd.io/claude-code.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install claude-code
 ```
 
-## Code insight
+## 代码规模
 
-Total: **15,749** lines of code across **612** files in the top 5 languages.
+合计: **15,749** 行代码（覆盖前 5 种语言、共 **612** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Python | 5,651 | 1,182 | 742 | 21 |
 | TypeScript | 4,869 | 2,188 | 959 | 562 |
 | Sh | 2,352 | 671 | 370 | 20 |
 | Hcl | 1,013 | 212 | 162 | 8 |
 | Xml | 889 | 0 | 0 | 1 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/anthropics/claude-code>
-- **Homepage**: <https://code.claude.com/docs/en/overview>
-- **License**: NOASSERTION
+- **上游仓库**: <https://github.com/anthropics/claude-code>
+- **官网**: <https://code.claude.com/docs/en/overview>
+- **许可证**: NOASSERTION
 
-## Release
+## 发布
 
-- **Latest**: `v2.1.268` (2026-09-10)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 10
+- **最新版本**: `v2.1.268` (2026-09-10)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 10 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 144,664 · **Forks**: 23,095 · **Open issues**: 90,702 · **Contributors**: 67
+- **Star**: 144,664 · **Fork**: 23,095 · **开放 issue**: 90,702 · **贡献者**: 67
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 214 · **Merged PRs**: 165 · **Open PRs**: 705 · **Closed issues**: 78794 · **Open issues**: 11908 · **Commits**: 764
+- **发布数**: 214 · **已合并 PR**: 165 · **开放 PR**: 705 · **已关闭 issue**: 78794 · **开放 issue**: 11908 · **提交数**: 764
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 30 | 3 | 8 | 1357 | 6137 | 35 |
 | last60d | 2026-07-12 | 49 | 4 | 93 | 6734 | 9569 | 57 |
@@ -55,10 +55,10 @@ Total: **15,749** lines of code across **612** files in the top 5 languages.
 | 360d | 2025-09-15 | 100 | 90 | 698 | 71497 | 11798 | 458 |
 | last720d | 2024-09-20 | 100 | 165 | 705 | 78784 | 11908 | 764 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [claude-darwin-arm64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.268/claude-darwin-arm64.tar.gz) | 82.8 MiB | `native/darwin/arm64` |
 | [claude-darwin-x64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.268/claude-darwin-x64.tar.gz) | 87.0 MiB | `native/darwin/x64` |
 | [claude-linux-arm64-musl.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.268/claude-linux-arm64-musl.tar.gz) | 90.2 MiB | `native/linux/arm64/musl` |
@@ -70,21 +70,21 @@ Total: **15,749** lines of code across **612** files in the top 5 languages.
 | [SHASUMS256.txt](https://github.com/anthropics/claude-code/releases/download/v2.1.268/SHASUMS256.txt) | 734 B | `other` |
 | [SHASUMS256.txt.sig](https://github.com/anthropics/claude-code/releases/download/v2.1.268/SHASUMS256.txt.sig) | 833 B | `other` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **16** distros on [repology.org](https://repology.org/project/claude-code). **3** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/claude-code) 上共有 **16** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Nix unstable | `2.1.266` | ⚠️ outdated |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for claude-code lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `claude-code` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+claude-code 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `claude-code` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/claude-code.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/claude-code.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:06:08Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:06:08Z._
