@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.1.268"
   latestRelease: "v2.1.268"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:05:55Z
+  collectedAt: 2026-09-10T22:42:14Z
 timeline:
   created: 2025-02-22
   lastCommit: 2026-09-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 144664
-  watcher: 871
-  fork: 23095
+  star: 144667
+  watcher: 870
+  fork: 23096
   release: 214
   contributor: 67
   pullRequest: 1280
-  issue: 90702
+  issue: 90721
 language:
   Python: 368691
   TypeScript: 256175
@@ -35,59 +35,59 @@ recent:
     release: 30
     mergedPR: 3
     openPR: 8
-    closedIssue: 1357
-    openIssue: 6137
+    closedIssue: 1443
+    openIssue: 6070
     commit: 35
   last60d:
     since: 2026-07-12
     release: 49
     mergedPR: 4
     openPR: 93
-    closedIssue: 6734
-    openIssue: 9569
+    closedIssue: 6856
+    openIssue: 9466
     commit: 57
   last90d:
     since: 2026-06-12
     release: 76
     mergedPR: 9
     openPR: 128
-    closedIssue: 14575
-    openIssue: 10522
+    closedIssue: 14703
+    openIssue: 10413
     commit: 92
   last180d:
     since: 2026-03-14
     release: 100
     mergedPR: 19
     openPR: 419
-    closedIssue: 46692
-    openIssue: 11147
+    closedIssue: 46822
+    openIssue: 11036
     commit: 194
   last360d:
     since: 2025-09-15
     release: 100
     mergedPR: 90
     openPR: 698
-    closedIssue: 71497
-    openIssue: 11798
+    closedIssue: 71627
+    openIssue: 11687
     commit: 458
   last720d:
     since: 2024-09-20
     release: 100
     mergedPR: 165
     openPR: 705
-    closedIssue: 78784
-    openIssue: 11908
+    closedIssue: 78914
+    openIssue: 11797
     commit: 764
 total:
   release: 214
   mergedPR: 165
   openPR: 705
-  closedIssue: 78794
-  openIssue: 11908
+  closedIssue: 78924
+  openIssue: 11797
   commit: 764
 ---
 path: /home/runner/.x-repo/github.com/anthropics/claude-code
-collectedAt: 2026-09-10T21:05:57Z
+collectedAt: 2026-09-10T22:42:16Z
 loc:
   Python:
     code: 5651
