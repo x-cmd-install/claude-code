@@ -38,22 +38,22 @@ Total: **15,749** lines of code across **612** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 144,664 · **Forks**: 23,095 · **Open issues**: 90,702 · **Contributors**: 67
+- **Stars**: 144,667 · **Forks**: 23,096 · **Open issues**: 90,721 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 214 · **Merged PRs**: 165 · **Open PRs**: 705 · **Closed issues**: 78794 · **Open issues**: 11908 · **Commits**: 764
+- **Releases**: 214 · **Merged PRs**: 165 · **Open PRs**: 705 · **Closed issues**: 78924 · **Open issues**: 11797 · **Commits**: 764
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 30 | 3 | 8 | 1357 | 6137 | 35 |
-| last60d | 2026-07-12 | 49 | 4 | 93 | 6734 | 9569 | 57 |
-| 90d | 2026-06-12 | 76 | 9 | 128 | 14575 | 10522 | 92 |
-| last180d | 2026-03-14 | 100 | 19 | 419 | 46692 | 11147 | 194 |
-| 360d | 2025-09-15 | 100 | 90 | 698 | 71497 | 11798 | 458 |
-| last720d | 2024-09-20 | 100 | 165 | 705 | 78784 | 11908 | 764 |
+| 30d | 2026-08-11 | 30 | 3 | 8 | 1443 | 6070 | 35 |
+| last60d | 2026-07-12 | 49 | 4 | 93 | 6856 | 9466 | 57 |
+| 90d | 2026-06-12 | 76 | 9 | 128 | 14703 | 10413 | 92 |
+| last180d | 2026-03-14 | 100 | 19 | 419 | 46822 | 11036 | 194 |
+| 360d | 2025-09-15 | 100 | 90 | 698 | 71627 | 11687 | 458 |
+| last720d | 2024-09-20 | 100 | 165 | 705 | 78914 | 11797 | 764 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for claude-code lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:06:08Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:42:28Z._
