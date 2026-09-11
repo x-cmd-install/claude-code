@@ -1,19 +1,9 @@
-- repo: slackbuilds
-  srcname: development/claude-code
-  visiblename: development/claude-code
-  version: 2.1.201
-  origversion: null
-  status: outdated
-  maintainers:
-    - nicholashubbard@posteo.net
-  categories:
-    - development
 - repo: aur
   srcname: claude-code
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.267
-  origversion: 2.1.267-1
+  version: 2.1.268
+  origversion: 2.1.268-1
   status: newest
   summary: An agentic coding tool that lives in your terminal
   maintainers:
@@ -33,7 +23,7 @@
   srcname: misc/claude-code
   binname: claude-code
   visiblename: misc/claude-code
-  version: 2.1.266
+  version: 2.1.267
   origversion: null
   status: outdated
   summary: Agentic coding tool from Anthropic that lives in your terminal
@@ -171,11 +161,21 @@
   subrepo: main
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.267
+  version: 2.1.268
   origversion: null
   status: newest
   licenses:
     - Proprietary
+- repo: slackbuilds
+  srcname: development/claude-code
+  visiblename: development/claude-code
+  version: 2.1.201
+  origversion: null
+  status: outdated
+  maintainers:
+    - nicholashubbard@posteo.net
+  categories:
+    - development
 - repo: spack
   srcname: claude-code
   visiblename: claude-code
@@ -191,5 +191,5 @@
   visiblename: Claude Code
   version: 2.1.267
   origversion: null
-  status: newest
+  status: outdated
   summary: AI-based tool made by Anthropic
