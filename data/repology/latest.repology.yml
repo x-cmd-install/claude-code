@@ -1,3 +1,20 @@
+- repo: spack
+  srcname: claude-code
+  visiblename: claude-code
+  version: 2.1.50
+  origversion: null
+  status: outdated
+  maintainers:
+    - wdconinc@spack
+  licenses:
+    - Anthropic-Claude
+- repo: wikidata
+  srcname: Q138457287
+  visiblename: Claude Code
+  version: 2.1.268
+  origversion: null
+  status: newest
+  summary: AI-based tool made by Anthropic
 - repo: aur
   srcname: claude-code
   binname: claude-code
@@ -176,20 +193,3 @@
     - nicholashubbard@posteo.net
   categories:
     - development
-- repo: spack
-  srcname: claude-code
-  visiblename: claude-code
-  version: 2.1.50
-  origversion: null
-  status: outdated
-  maintainers:
-    - wdconinc@spack
-  licenses:
-    - Anthropic-Claude
-- repo: wikidata
-  srcname: Q138457287
-  visiblename: Claude Code
-  version: 2.1.267
-  origversion: null
-  status: outdated
-  summary: AI-based tool made by Anthropic
