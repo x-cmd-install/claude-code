@@ -1,26 +1,9 @@
-- repo: spack
-  srcname: claude-code
-  visiblename: claude-code
-  version: 2.1.50
-  origversion: null
-  status: outdated
-  maintainers:
-    - wdconinc@spack
-  licenses:
-    - Anthropic-Claude
-- repo: wikidata
-  srcname: Q138457287
-  visiblename: Claude Code
-  version: 2.1.268
-  origversion: null
-  status: newest
-  summary: AI-based tool made by Anthropic
 - repo: aur
   srcname: claude-code
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.268
-  origversion: 2.1.268-1
+  version: 2.1.269
+  origversion: 2.1.269-1
   status: newest
   summary: An agentic coding tool that lives in your terminal
   maintainers:
@@ -40,7 +23,7 @@
   srcname: misc/claude-code
   binname: claude-code
   visiblename: misc/claude-code
-  version: 2.1.267
+  version: 2.1.268
   origversion: null
   status: outdated
   summary: Agentic coding tool from Anthropic that lives in your terminal
@@ -178,7 +161,7 @@
   subrepo: main
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.268
+  version: 2.1.269
   origversion: null
   status: newest
   licenses:
@@ -193,3 +176,20 @@
     - nicholashubbard@posteo.net
   categories:
     - development
+- repo: spack
+  srcname: claude-code
+  visiblename: claude-code
+  version: 2.1.50
+  origversion: null
+  status: outdated
+  maintainers:
+    - wdconinc@spack
+  licenses:
+    - Anthropic-Claude
+- repo: wikidata
+  srcname: Q138457287
+  visiblename: Claude Code
+  version: 2.1.268
+  origversion: null
+  status: outdated
+  summary: AI-based tool made by Anthropic
