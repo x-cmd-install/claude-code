@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 88249765,
       "digest": "sha256:844b574a4f66103138a0d3090e7ef6117f83790b4d637c25a798057a735e68e9",
-      "download_count": 130,
+      "download_count": 668,
       "created_at": "2026-09-12T18:49:20Z",
       "updated_at": "2026-09-12T18:49:24Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.270/claude-darwin-arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 92800294,
       "digest": "sha256:bfc4a3bb1f785e389035b7b49ac752e0fd92d908efdc6d1b4ec590e545c54730",
-      "download_count": 31,
+      "download_count": 91,
       "created_at": "2026-09-12T18:49:20Z",
       "updated_at": "2026-09-12T18:49:25Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.270/claude-darwin-x64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 95931607,
       "digest": "sha256:5fb26398e8aa2ca2423fcdacd1ab3b6c335545b0b3feaa13e1f8fb184a1f0a76",
-      "download_count": 19,
+      "download_count": 40,
       "created_at": "2026-09-12T18:49:20Z",
       "updated_at": "2026-09-12T18:49:25Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.270/claude-linux-arm64-musl.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 98237567,
       "digest": "sha256:005d990a52bc16a5dd9ac51f2cc959f686a2c502b343b2eab92351ababf50f7f",
-      "download_count": 172,
+      "download_count": 568,
       "created_at": "2026-09-12T18:49:20Z",
       "updated_at": "2026-09-12T18:49:24Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.270/claude-linux-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 96207581,
       "digest": "sha256:6677556de94f08a350307989d28285a927b9fa9cac1f188ba587c71d1e49b13f",
-      "download_count": 21,
+      "download_count": 46,
       "created_at": "2026-09-12T18:49:20Z",
       "updated_at": "2026-09-12T18:49:24Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.270/claude-linux-x64-musl.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 98353142,
       "digest": "sha256:b069b327de3ad6c8cda70886675da46fb213797ac99a367df384e2202b37e0b7",
-      "download_count": 2726,
+      "download_count": 9889,
       "created_at": "2026-09-12T18:49:24Z",
       "updated_at": "2026-09-12T18:49:29Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.270/claude-linux-x64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 97605127,
       "digest": "sha256:2ee976f38978295394af9f2f9e7708fec4b84c2b05dabff31acdab9f432007b8",
-      "download_count": 34,
+      "download_count": 74,
       "created_at": "2026-09-12T18:49:25Z",
       "updated_at": "2026-09-12T18:49:29Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.270/claude-win32-arm64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 101058693,
       "digest": "sha256:bc0b26b266b0b7c1bd983ebaa68d8239d557f44f4ffdf27bb65788888ea902bf",
-      "download_count": 113,
+      "download_count": 439,
       "created_at": "2026-09-12T18:49:25Z",
       "updated_at": "2026-09-12T18:49:30Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.270/claude-win32-x64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 734,
       "digest": "sha256:c6584a64de31bdadf132033b44d3ee10bc28095843c78ce41972d375077dc962",
-      "download_count": 48,
+      "download_count": 186,
       "created_at": "2026-09-12T18:49:25Z",
       "updated_at": "2026-09-12T18:49:25Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.270/SHASUMS256.txt"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:4396ec34be99f74dc8cacd1d14f38739644496b2a159a7bfa1168ae3875f4abb",
-      "download_count": 11,
+      "download_count": 28,
       "created_at": "2026-09-12T18:49:25Z",
       "updated_at": "2026-09-12T18:49:25Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.270/SHASUMS256.txt.sig"
@@ -402,14 +402,14 @@
   "body": "## What's changed\n\n- Fixed read-only git commands in Bash unexpectedly asking for permission after a session had been running for a while (regression in 2.1.269)\n",
   "reactions": {
     "url": "https://api.github.com/repos/anthropics/claude-code/releases/387670363/reactions",
-    "total_count": 24,
-    "+1": 7,
+    "total_count": 37,
+    "+1": 16,
     "-1": 0,
     "laugh": 3,
     "hooray": 4,
     "confused": 0,
-    "heart": 3,
-    "rocket": 5,
-    "eyes": 2
+    "heart": 4,
+    "rocket": 7,
+    "eyes": 3
   }
 }
