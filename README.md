@@ -14,14 +14,14 @@ x install claude-code
 
 ## Code insight
 
-Total: **29,632** lines of code across **1212** files in the top 5 languages.
+Total: **29,631** lines of code across **1212** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 18,197 | 13,707 | 3,574 | 1162 |
 | Python | 5,651 | 1,182 | 742 | 21 |
 | Sh | 2,352 | 671 | 370 | 20 |
-| Xml | 1,161 | 0 | 0 | 1 |
+| Xml | 1,160 | 0 | 0 | 1 |
 | Hcl | 1,013 | 212 | 162 | 8 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **29,632** lines of code across **1212** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.1.278` (2026-09-19)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-21
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 147,264 · **Forks**: 24,085 · **Open issues**: 93,004 · **Contributors**: 67
+- **Stars**: 147,511 · **Forks**: 24,120 · **Open issues**: 93,185 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 224 · **Merged PRs**: 180 · **Open PRs**: 704 · **Closed issues**: 81473 · **Open issues**: 11531 · **Commits**: 862
+- **Releases**: 224 · **Merged PRs**: 181 · **Open PRs**: 704 · **Closed issues**: 81694 · **Open issues**: 11491 · **Commits**: 865
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 29 | 18 | 4 | 1102 | 5746 | 111 |
-| last60d | 2026-07-23 | 49 | 18 | 43 | 6081 | 8877 | 137 |
-| 90d | 2026-06-23 | 76 | 22 | 119 | 14994 | 10090 | 168 |
-| last180d | 2026-03-25 | 100 | 34 | 377 | 45056 | 10702 | 273 |
-| 360d | 2025-09-26 | 100 | 102 | 697 | 73609 | 11415 | 534 |
-| last720d | 2024-10-01 | 100 | 180 | 704 | 81463 | 11531 | 862 |
+| 30d | 2026-08-23 | 28 | 19 | 4 | 1100 | 5748 | 113 |
+| last60d | 2026-07-24 | 49 | 19 | 42 | 6070 | 8781 | 139 |
+| 90d | 2026-06-24 | 75 | 23 | 119 | 14998 | 10048 | 170 |
+| last180d | 2026-03-26 | 100 | 35 | 372 | 44763 | 10655 | 275 |
+| 360d | 2025-09-27 | 100 | 103 | 697 | 73797 | 11375 | 536 |
+| last720d | 2024-10-02 | 100 | 181 | 704 | 81684 | 11491 | 865 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for claude-code lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:14:30Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:09:40Z._
