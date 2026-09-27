@@ -38,22 +38,22 @@ Total: **30,282** lines of code across **1223** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 148,122 · **Forks**: 24,636 · **Open issues**: 94,561 · **Contributors**: 69
+- **Stars**: 148,248 · **Forks**: 24,785 · **Open issues**: 94,763 · **Contributors**: 69
 
 ## Totals (cumulative)
 
-- **Releases**: 228 · **Merged PRs**: 189 · **Open PRs**: 707 · **Closed issues**: 82155 · **Open issues**: 12406 · **Commits**: 880
+- **Releases**: 228 · **Merged PRs**: 189 · **Open PRs**: 707 · **Closed issues**: 82193 · **Open issues**: 12570 · **Commits**: 880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 28 | 27 | 6 | 1093 | 5994 | 128 |
-| last60d | 2026-07-28 | 51 | 27 | 34 | 5678 | 9454 | 154 |
-| 90d | 2026-06-28 | 75 | 31 | 118 | 14014 | 10939 | 185 |
-| last180d | 2026-03-30 | 100 | 42 | 357 | 43676 | 11552 | 290 |
-| 360d | 2025-10-01 | 100 | 110 | 700 | 73858 | 12276 | 551 |
-| last720d | 2024-10-06 | 100 | 189 | 707 | 82145 | 12406 | 880 |
+| 30d | 2026-08-28 | 27 | 27 | 6 | 1081 | 5963 | 128 |
+| last60d | 2026-07-29 | 51 | 27 | 32 | 5507 | 9535 | 154 |
+| 90d | 2026-06-29 | 75 | 29 | 117 | 13848 | 11095 | 185 |
+| last180d | 2026-03-31 | 100 | 42 | 346 | 43255 | 11709 | 290 |
+| 360d | 2025-10-02 | 100 | 110 | 700 | 73811 | 12439 | 551 |
+| last720d | 2024-10-07 | 100 | 189 | 707 | 82183 | 12570 | 880 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for claude-code lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:48:35Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:16:48Z._
