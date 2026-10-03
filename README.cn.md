@@ -14,14 +14,14 @@ x install claude-code
 
 ## 代码洞察
 
-合计: **32,601** 行代码（覆盖前 5 种语言、共 **1310** 个文件）。
+合计: **32,637** 行代码（覆盖前 5 种语言、共 **1310** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | TypeScript | 20,594 | 14,361 | 4,128 | 1260 |
 | Python | 5,651 | 1,182 | 742 | 21 |
 | Sh | 2,352 | 671 | 370 | 20 |
-| Xml | 1,733 | 0 | 0 | 1 |
+| Xml | 1,769 | 0 | 0 | 1 |
 | Hcl | 1,013 | 212 | 162 | 8 |
 
 ## 源代码
@@ -32,43 +32,43 @@ x install claude-code
 
 ## 发布
 
-- **最新版本**: `v2.1.287` (2026-10-01)
-- **最近提交**: 2026-10-01
+- **最新版本**: `v2.1.288` (2026-10-02)
+- **最近提交**: 2026-10-02
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 148,897 · **Fork**: 25,137 · **开放 issue**: 96,044 · **贡献者**: 70
+- **Star**: 149,004 · **Fork**: 25,286 · **开放 issue**: 96,312 · **贡献者**: 70
 
 ## 累计统计
 
-- **发布数**: 232 · **已合并 PR**: 199 · **开放 PR**: 705 · **已关闭 issue**: 82733 · **开放 issue**: 13311 · **提交数**: 902
+- **发布数**: 233 · **已合并 PR**: 199 · **开放 PR**: 707 · **已关闭 issue**: 82923 · **开放 issue**: 13389 · **提交数**: 903
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 26 | 37 | 6 | 1162 | 6003 | 141 |
-| last60d | 2026-08-03 | 55 | 37 | 28 | 5013 | 10079 | 173 |
-| 90d | 2026-07-04 | 73 | 38 | 112 | 12612 | 11723 | 196 |
-| last180d | 2026-04-05 | 100 | 52 | 322 | 41630 | 12415 | 305 |
-| 360d | 2025-10-07 | 100 | 120 | 698 | 74039 | 13175 | 565 |
-| last720d | 2024-10-12 | 100 | 199 | 705 | 82723 | 13310 | 902 |
+| 30d | 2026-09-03 | 26 | 36 | 9 | 1212 | 5940 | 142 |
+| last60d | 2026-08-04 | 56 | 37 | 30 | 4945 | 10118 | 174 |
+| 90d | 2026-07-05 | 74 | 38 | 114 | 12517 | 11778 | 197 |
+| last180d | 2026-04-06 | 100 | 52 | 321 | 41425 | 12483 | 306 |
+| 360d | 2025-10-08 | 100 | 120 | 700 | 74156 | 13254 | 566 |
+| last720d | 2024-10-13 | 100 | 199 | 707 | 82913 | 13389 | 903 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [claude-darwin-arm64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.287/claude-darwin-arm64.tar.gz) | 93.4 MiB | `native/darwin/arm64` |
-| [claude-darwin-x64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.287/claude-darwin-x64.tar.gz) | 97.7 MiB | `native/darwin/x64` |
-| [claude-linux-arm64-musl.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.287/claude-linux-arm64-musl.tar.gz) | 100.5 MiB | `native/linux/arm64/musl` |
-| [claude-linux-arm64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.287/claude-linux-arm64.tar.gz) | 102.8 MiB | `native/linux/arm64` |
-| [claude-linux-x64-musl.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.287/claude-linux-x64-musl.tar.gz) | 101.0 MiB | `native/unknown` |
-| [claude-linux-x64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.287/claude-linux-x64.tar.gz) | 103.1 MiB | `native/unknown` |
-| [claude-win32-arm64.zip](https://github.com/anthropics/claude-code/releases/download/v2.1.287/claude-win32-arm64.zip) | 101.3 MiB | `native/win/arm64` |
-| [claude-win32-x64.zip](https://github.com/anthropics/claude-code/releases/download/v2.1.287/claude-win32-x64.zip) | 105.6 MiB | `native/win/x64` |
-| [SHASUMS256.txt](https://github.com/anthropics/claude-code/releases/download/v2.1.287/SHASUMS256.txt) | 734 B | `other` |
-| [SHASUMS256.txt.sig](https://github.com/anthropics/claude-code/releases/download/v2.1.287/SHASUMS256.txt.sig) | 833 B | `other` |
+| [claude-darwin-arm64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.288/claude-darwin-arm64.tar.gz) | 94.0 MiB | `native/darwin/arm64` |
+| [claude-darwin-x64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.288/claude-darwin-x64.tar.gz) | 98.4 MiB | `native/darwin/x64` |
+| [claude-linux-arm64-musl.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.288/claude-linux-arm64-musl.tar.gz) | 101.1 MiB | `native/linux/arm64/musl` |
+| [claude-linux-arm64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.288/claude-linux-arm64.tar.gz) | 103.4 MiB | `native/linux/arm64` |
+| [claude-linux-x64-musl.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.288/claude-linux-x64-musl.tar.gz) | 101.6 MiB | `native/unknown` |
+| [claude-linux-x64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.288/claude-linux-x64.tar.gz) | 103.7 MiB | `native/unknown` |
+| [claude-win32-arm64.zip](https://github.com/anthropics/claude-code/releases/download/v2.1.288/claude-win32-arm64.zip) | 101.9 MiB | `native/win/arm64` |
+| [claude-win32-x64.zip](https://github.com/anthropics/claude-code/releases/download/v2.1.288/claude-win32-x64.zip) | 106.3 MiB | `native/win/x64` |
+| [SHASUMS256.txt](https://github.com/anthropics/claude-code/releases/download/v2.1.288/SHASUMS256.txt) | 734 B | `other` |
+| [SHASUMS256.txt.sig](https://github.com/anthropics/claude-code/releases/download/v2.1.288/SHASUMS256.txt.sig) | 833 B | `other` |
 
 ## 改进这些数据
 
@@ -79,4 +79,4 @@ claude-code 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261002.yml` · 2026-10-02T06:34:15Z._
+_数据快照: `data/card/261003.yml` · 2026-10-03T06:17:14Z._
