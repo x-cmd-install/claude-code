@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 119848188,
       "digest": "sha256:cf47d30004ff26e5cfed6004a29ca94e05ad53d6f890ee1be8bb582e8ce2a5b5",
-      "download_count": 142,
+      "download_count": 678,
       "created_at": "2026-10-23T21:14:26Z",
       "updated_at": "2026-10-23T21:14:33Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.310/claude-darwin-arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 125682564,
       "digest": "sha256:4c62f49341f7d902bb92186d67eee2adbf014faba9ab617729de52d7b719e1c4",
-      "download_count": 29,
+      "download_count": 108,
       "created_at": "2026-10-23T21:14:26Z",
       "updated_at": "2026-10-23T21:14:32Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.310/claude-darwin-x64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 127495523,
       "digest": "sha256:9f233d46cd396f97260825a7e68c3410288ca6976a7f4a6a5b3caead4a5e785a",
-      "download_count": 11,
+      "download_count": 33,
       "created_at": "2026-10-23T21:14:26Z",
       "updated_at": "2026-10-23T21:14:34Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.310/claude-linux-arm64-musl.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 129990895,
       "digest": "sha256:97ab45a42fdb141dc37d3b12973638ebd8fda59163eca51b02aa2eded0630874",
-      "download_count": 169,
+      "download_count": 779,
       "created_at": "2026-10-23T21:14:26Z",
       "updated_at": "2026-10-23T21:14:34Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.310/claude-linux-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 128023350,
       "digest": "sha256:6ddc4f6666aa87629f416b9eb6e6dce9e9abcfa749fbfbdc81758d4d6a9c442b",
-      "download_count": 14,
+      "download_count": 34,
       "created_at": "2026-10-23T21:14:26Z",
       "updated_at": "2026-10-23T21:14:34Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.310/claude-linux-x64-musl.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 130295023,
       "digest": "sha256:5bea9e13ac07ea6804c24e6263ec7e5b3d13f81d3f681c92f9784c534425fae1",
-      "download_count": 2701,
+      "download_count": 12678,
       "created_at": "2026-10-23T21:14:33Z",
       "updated_at": "2026-10-23T21:14:39Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.310/claude-linux-x64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 128188030,
       "digest": "sha256:11867b6473e2d8ceccc72847b9e6b75583c7d0fbc9660827e849b2fd77384cc7",
-      "download_count": 20,
+      "download_count": 67,
       "created_at": "2026-10-23T21:14:34Z",
       "updated_at": "2026-10-23T21:14:39Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.310/claude-win32-arm64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 133834810,
       "digest": "sha256:a9419b5c4942b919cb048d3f3288e19d2bec55f843615d652636f7cb638abb80",
-      "download_count": 96,
+      "download_count": 469,
       "created_at": "2026-10-23T21:14:34Z",
       "updated_at": "2026-10-23T21:14:40Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.310/claude-win32-x64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 734,
       "digest": "sha256:a5f7fe71b45f4aff5e0e90dc0a63ee5dac0b22a0df7c0fb3271338ae39bc1d8a",
-      "download_count": 60,
+      "download_count": 223,
       "created_at": "2026-10-23T21:14:34Z",
       "updated_at": "2026-10-23T21:14:35Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.310/SHASUMS256.txt"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:0d82d65ea15c7acd8db4750f3195b4d5abedda6740b548955c784408883fc03e",
-      "download_count": 45,
+      "download_count": 192,
       "created_at": "2026-10-23T21:14:34Z",
       "updated_at": "2026-10-23T21:14:35Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.310/SHASUMS256.txt.sig"
@@ -402,14 +402,14 @@
   "body": "## What's changed\n\n- Added the Monitor tool and plugin monitors on Bedrock, Vertex, and Foundry, and when telemetry or nonessential traffic is disabled; long foreground sleeps are now blocked there too\n- Fixed requests failing behind some gateways and compatible servers that reject the `effort-2025-11-24` beta value or mid-conversation system messages; Claude Code now retries without them\n- Fixed background cleanup deleting some recent files, such as pasted images, when `cleanupPeriodDays` is set to a very large value\n- Fixed compaction after a \"Prompt is too long\" error keeping too much of a conversation with dense text, such as base64 or SVG, so the next request could fail again\n- Fixed file read permission prompts not showing where a symbolic link leads\n- Fixed a question's auto-continue timeout firing the moment the external editor closed after a long edit\n- Windows: Fixed PreToolUse and PermissionRequest hooks letting a tool call through when Git Bash is missing and the hook's command is only quoted strings, such as a quoted path\n- Improved auto mode's prompt before the first read outside the working directories: it now says when blocking those reads makes shell commands ask for permission\n- Improved memory use of non-interactive sessions (`-p`, Agent SDK) during compaction when the transcript file is very large\n- Improved a mod's `Image` to draw inside tmux with `allow-passthrough` and `focus-events` on, in kitty, Ghostty, and iTerm2 3.5+ with fullscreen rendering, where it showed only its `alt` text\n- Linux: Improved `/sandbox` and the sandbox startup warning to name Ubuntu's AppArmor restriction on user namespaces, and how to lift it, when it keeps bubblewrap from starting the sandbox\n- Changed the error for an MCP tool call that times out in a non-interactive session while the server's elicitation is unanswered: it now tells Claude that no answer came and not to repeat the call\n- [VSCode] Fixed pressing Enter on the plan review card's \"Send feedback and keep planning\" button approving the plan instead of sending your comments back\n- [VSCode] Fixed the panel showing \"Something went wrong\" after \"Switch branch & continue\" on a cloud session opened from Session history's Web tab\n- [Cloud sessions] Added Claude Code cloud sessions and Remote Control permissions to Enterprise custom roles, so Owners can control access to each by role\n- [Cloud sessions] Added a Choose file button to load a cloud environment's setup script from a file\n- [Cloud sessions] Fixed failed saves and archives in the cloud environment edit dialog showing no error inside the dialog\n- [Cloud sessions] Fixed failed routine API token actions showing only a toast; the error now appears in the routine edit dialog\n- [Cloud sessions] Improved the session start checklist to show a cloud environment's setup script output in a scrolling box\n- [Cloud sessions] Changed turning on Cloud sessions or Remote Control in admin settings to ask for confirmation and list the custom roles that have that permission\n- [Cloud sessions] Changed the cloud environment dialog to open network access, setup script and environment variables from rows instead of listing every editor at once\n- [Claude Tag] Fixed Claude Tag treating `!` commands such as `!restart` and `!help` as ordinary messages when sent in bold, italic or strikethrough\n- [Claude Tag] Fixed Claude Tag admin channel and workspace pages being replaced by a load error when a background refresh of the bundle list fails\n- [Claude Tag] Fixed Claude Tag's spend limits page in admin settings reporting that no channels match a filter while channel names are still loading\n- [Code Review] Fixed the Code Review admin section hiding its repositories and switches after a failed refresh of the repository list\n- [Code Review] Improved the Code Review admin section to retry the first load and show one Try again banner when it still fails\n",
   "reactions": {
     "url": "https://api.github.com/repos/anthropics/claude-code/releases/422315867/reactions",
-    "total_count": 17,
-    "+1": 6,
+    "total_count": 33,
+    "+1": 15,
     "-1": 0,
-    "laugh": 2,
-    "hooray": 2,
+    "laugh": 3,
+    "hooray": 3,
     "confused": 0,
-    "heart": 2,
-    "rocket": 3,
-    "eyes": 2
+    "heart": 4,
+    "rocket": 4,
+    "eyes": 4
   }
 }
