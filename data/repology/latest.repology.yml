@@ -15,7 +15,7 @@
 - repo: chocolatey
   binname: claude-code
   visiblename: Claude Code
-  version: 2.1.292
+  version: 2.1.308
   origversion: null
   status: outdated
   summary: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
@@ -23,9 +23,9 @@
   srcname: misc/claude-code
   binname: claude-code
   visiblename: misc/claude-code
-  version: 2.1.306
+  version: 2.1.310
   origversion: null
-  status: outdated
+  status: newest
   summary: Agentic coding tool from Anthropic that lives in your terminal
   maintainers:
     - yuri@freebsd.org
