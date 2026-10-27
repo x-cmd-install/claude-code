@@ -1,9 +1,20 @@
+- repo: stalix_dev
+  srcname: bin/claude/code
+  binname: bin/claude/code
+  visiblename: bin/claude/code
+  version: 2.1.310
+  origversion: null
+  status: outdated
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
 - repo: aur
   srcname: claude-code
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.310
-  origversion: 2.1.310-1
+  version: 2.1.311
+  origversion: 2.1.311-1
   status: newest
   summary: An agentic coding tool that lives in your terminal
   maintainers:
@@ -25,7 +36,7 @@
   visiblename: misc/claude-code
   version: 2.1.310
   origversion: null
-  status: newest
+  status: outdated
   summary: Agentic coding tool from Anthropic that lives in your terminal
   maintainers:
     - yuri@freebsd.org
@@ -51,6 +62,13 @@
   origversion: null
   status: outdated
   summary: Terminal-based AI coding assistant
+- repo: wikidata
+  srcname: Q138457287
+  visiblename: Claude Code
+  version: 2.1.303
+  origversion: null
+  status: legacy
+  summary: AI-based tool made by Anthropic
 - repo: liguros_stable
   srcname: dev-util/claude-code
   visiblename: dev-util/claude-code
@@ -83,7 +101,7 @@
   visiblename: claude-code
   version: 2.1.310
   origversion: null
-  status: newest
+  status: outdated
   summary: Claude Code -- Anthropic's agentic coding tool that lives in your terminal
   maintainers:
     - breun@macports
@@ -161,7 +179,7 @@
   subrepo: main
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.310
+  version: 2.1.311
   origversion: null
   status: newest
   licenses:
@@ -186,28 +204,10 @@
     - wdconinc@spack
   licenses:
     - Anthropic-Claude
-- repo: stalix_dev
-  srcname: bin/claude/code
-  binname: bin/claude/code
-  visiblename: bin/claude/code
-  version: 2.1.310
-  origversion: null
-  status: newest
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
-- repo: wikidata
-  srcname: Q138457287
-  visiblename: Claude Code
-  version: 2.1.303
-  origversion: null
-  status: legacy
-  summary: AI-based tool made by Anthropic
 - repo: wikidata
   srcname: Q138457287
   visiblename: Claude Code
   version: 2.1.310
   origversion: null
-  status: newest
+  status: outdated
   summary: AI-based tool made by Anthropic
