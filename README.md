@@ -38,22 +38,22 @@ Total: **28,416** lines of code across **1382** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 153,641 · **Forks**: 26,063 · **Open issues**: 102,376 · **Contributors**: 71
+- **Stars**: 153,778 · **Forks**: 26,081 · **Open issues**: 102,650 · **Contributors**: 71
 
 ## Totals (cumulative)
 
-- **Releases**: 255 · **Merged PRs**: 203 · **Open PRs**: 650 · **Closed issues**: 87187 · **Open issues**: 15189 · **Commits**: 953
+- **Releases**: 255 · **Merged PRs**: 203 · **Open PRs**: 650 · **Closed issues**: 87334 · **Open issues**: 15316 · **Commits**: 953
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 27 | 11 | 0 | 1523 | 5982 | 48 |
-| last60d | 2026-08-29 | 52 | 41 | 2 | 3195 | 11592 | 192 |
-| 90d | 2026-07-30 | 78 | 41 | 17 | 9564 | 13024 | 223 |
-| last180d | 2026-05-01 | 100 | 52 | 213 | 35014 | 14210 | 320 |
-| 360d | 2025-11-02 | 100 | 106 | 639 | 76855 | 15041 | 566 |
-| last720d | 2024-11-07 | 100 | 203 | 650 | 87177 | 15189 | 953 |
+| 30d | 2026-09-29 | 26 | 8 | 0 | 1515 | 6015 | 48 |
+| last60d | 2026-08-30 | 52 | 41 | 2 | 3213 | 11648 | 192 |
+| 90d | 2026-07-31 | 78 | 41 | 14 | 9455 | 13136 | 223 |
+| last180d | 2026-05-02 | 100 | 52 | 212 | 34949 | 14334 | 320 |
+| 360d | 2025-11-03 | 100 | 105 | 639 | 76937 | 15166 | 566 |
+| last720d | 2024-11-08 | 100 | 203 | 650 | 87324 | 15316 | 953 |
 
 ## Release assets
 
@@ -72,11 +72,11 @@ Total: **28,416** lines of code across **1382** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **18** distros on [repology.org](https://repology.org/project/claude-code). **3** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/claude-code). **8** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `2.1.310` | ⚠️ outdated |
+| Nix unstable | `2.1.311` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -87,4 +87,4 @@ Install metadata for claude-code lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:41:02Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:50:58Z._
