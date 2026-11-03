@@ -1,9 +1,16 @@
+- repo: chocolatey
+  binname: claude-code
+  visiblename: Claude Code
+  version: 2.1.309
+  origversion: null
+  status: outdated
+  summary: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - repo: aur
   srcname: claude-code
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.316
-  origversion: 2.1.316-1
+  version: 2.1.317
+  origversion: 2.1.317-1
   status: newest
   summary: An agentic coding tool that lives in your terminal
   maintainers:
@@ -12,13 +19,6 @@
     - fabifont@aur
   licenses:
     - LicenseRef-claude-code
-- repo: chocolatey
-  binname: claude-code
-  visiblename: Claude Code
-  version: 2.1.309
-  origversion: null
-  status: outdated
-  summary: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - repo: freebsd
   srcname: misc/claude-code
   binname: claude-code
@@ -47,7 +47,7 @@
 - repo: homebrew_casks
   srcname: claude-code
   visiblename: Claude Code
-  version: 2.1.309
+  version: 2.1.311
   origversion: null
   status: outdated
   summary: Terminal-based AI coding assistant
@@ -83,7 +83,7 @@
   visiblename: claude-code
   version: 2.1.316
   origversion: null
-  status: newest
+  status: outdated
   summary: Claude Code -- Anthropic's agentic coding tool that lives in your terminal
   maintainers:
     - breun@macports
@@ -145,7 +145,7 @@
   visiblename: claude-code
   version: 2.1.316
   origversion: null
-  status: newest
+  status: outdated
   summary: Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
   maintainers:
     - alex.decious@gmail.com
@@ -161,7 +161,7 @@
   subrepo: main
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.316
+  version: 2.1.317
   origversion: null
   status: newest
   licenses:
@@ -192,7 +192,7 @@
   visiblename: bin/claude/code
   version: 2.1.316
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - anton@samokhvalov.xyz
   categories:
@@ -203,7 +203,7 @@
   visiblename: bin/claude/code
   version: 2.1.316
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - anton@samokhvalov.xyz
   categories:
@@ -220,5 +220,5 @@
   visiblename: Claude Code
   version: 2.1.316
   origversion: null
-  status: newest
+  status: outdated
   summary: AI-based tool made by Anthropic
