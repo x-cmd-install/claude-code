@@ -14,15 +14,15 @@ x install claude-code
 
 ## Code insight
 
-Total: **29,260** lines of code across **1388** files in the top 5 languages.
+Total: **29,329** lines of code across **1388** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 24,396 | 15,245 | 5,019 | 1353 |
-| Xml | 1,404 | 0 | 0 | 1 |
+| TypeScript | 24,394 | 15,245 | 5,019 | 1353 |
+| Xml | 1,486 | 0 | 0 | 1 |
 | Sh | 1,201 | 461 | 135 | 5 |
 | Hcl | 1,013 | 212 | 162 | 8 |
-| Tsx | 796 | 278 | 132 | 21 |
+| Tsx | 785 | 277 | 131 | 21 |
 
 ## Source
 
@@ -32,43 +32,43 @@ Total: **29,260** lines of code across **1388** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.1.317` (2026-11-03)
-- **Last commit**: 2026-11-03
+- **Latest**: `v2.1.318` (2026-11-04)
+- **Last commit**: 2026-11-04
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 154,342 · **Forks**: 25,542 · **Open issues**: 103,670 · **Contributors**: 71
+- **Stars**: 154,456 · **Forks**: 25,557 · **Open issues**: 103,845 · **Contributors**: 71
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 204 · **Open PRs**: 640 · **Closed issues**: 88049 · **Open issues**: 15621 · **Commits**: 962
+- **Releases**: 259 · **Merged PRs**: 204 · **Open PRs**: 641 · **Closed issues**: 88107 · **Open issues**: 15738 · **Commits**: 964
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 24 | 4 | 0 | 1444 | 5869 | 44 |
-| last60d | 2026-09-04 | 50 | 41 | 2 | 3142 | 11363 | 193 |
-| 90d | 2026-08-05 | 79 | 42 | 11 | 8986 | 13348 | 225 |
-| last180d | 2026-05-07 | 100 | 52 | 201 | 34275 | 14618 | 318 |
-| 360d | 2025-11-08 | 100 | 105 | 629 | 77334 | 15462 | 564 |
-| last720d | 2024-11-13 | 100 | 204 | 640 | 88039 | 15621 | 962 |
+| 30d | 2026-10-05 | 25 | 4 | 1 | 1415 | 5869 | 46 |
+| last60d | 2026-09-05 | 50 | 41 | 3 | 3157 | 11440 | 195 |
+| 90d | 2026-08-06 | 80 | 42 | 10 | 8818 | 13445 | 227 |
+| last180d | 2026-05-08 | 100 | 52 | 199 | 33973 | 14730 | 320 |
+| 360d | 2025-11-09 | 100 | 103 | 630 | 77351 | 15578 | 566 |
+| last720d | 2024-11-14 | 100 | 204 | 641 | 88097 | 15738 | 964 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [claude-darwin-arm64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.317/claude-darwin-arm64.tar.gz) | 133.2 MiB | `native/darwin/arm64` |
-| [claude-darwin-x64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.317/claude-darwin-x64.tar.gz) | 140.2 MiB | `native/darwin/x64` |
-| [claude-linux-arm64-musl.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.317/claude-linux-arm64-musl.tar.gz) | 137.1 MiB | `native/linux/arm64/musl` |
-| [claude-linux-arm64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.317/claude-linux-arm64.tar.gz) | 144.1 MiB | `native/linux/arm64` |
-| [claude-linux-x64-musl.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.317/claude-linux-x64-musl.tar.gz) | 138.0 MiB | `native/unknown` |
-| [claude-linux-x64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.317/claude-linux-x64.tar.gz) | 145.2 MiB | `native/unknown` |
-| [claude-win32-arm64.zip](https://github.com/anthropics/claude-code/releases/download/v2.1.317/claude-win32-arm64.zip) | 140.6 MiB | `native/win/arm64` |
-| [claude-win32-x64.zip](https://github.com/anthropics/claude-code/releases/download/v2.1.317/claude-win32-x64.zip) | 147.7 MiB | `native/win/x64` |
-| [SHASUMS256.txt](https://github.com/anthropics/claude-code/releases/download/v2.1.317/SHASUMS256.txt) | 734 B | `other` |
-| [SHASUMS256.txt.sig](https://github.com/anthropics/claude-code/releases/download/v2.1.317/SHASUMS256.txt.sig) | 833 B | `other` |
+| [claude-darwin-arm64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.318/claude-darwin-arm64.tar.gz) | 136.4 MiB | `native/darwin/arm64` |
+| [claude-darwin-x64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.318/claude-darwin-x64.tar.gz) | 143.5 MiB | `native/darwin/x64` |
+| [claude-linux-arm64-musl.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.318/claude-linux-arm64-musl.tar.gz) | 140.2 MiB | `native/linux/arm64/musl` |
+| [claude-linux-arm64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.318/claude-linux-arm64.tar.gz) | 148.0 MiB | `native/linux/arm64` |
+| [claude-linux-x64-musl.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.318/claude-linux-x64-musl.tar.gz) | 140.9 MiB | `native/unknown` |
+| [claude-linux-x64.tar.gz](https://github.com/anthropics/claude-code/releases/download/v2.1.318/claude-linux-x64.tar.gz) | 148.3 MiB | `native/unknown` |
+| [claude-win32-arm64.zip](https://github.com/anthropics/claude-code/releases/download/v2.1.318/claude-win32-arm64.zip) | 143.6 MiB | `native/win/arm64` |
+| [claude-win32-x64.zip](https://github.com/anthropics/claude-code/releases/download/v2.1.318/claude-win32-x64.zip) | 149.9 MiB | `native/win/x64` |
+| [SHASUMS256.txt](https://github.com/anthropics/claude-code/releases/download/v2.1.318/SHASUMS256.txt) | 734 B | `other` |
+| [SHASUMS256.txt.sig](https://github.com/anthropics/claude-code/releases/download/v2.1.318/SHASUMS256.txt.sig) | 833 B | `other` |
 
 ## Distribution status
 
@@ -87,4 +87,4 @@ Install metadata for claude-code lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:07:58Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:27:29Z._
