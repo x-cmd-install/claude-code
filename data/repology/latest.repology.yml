@@ -143,9 +143,9 @@
 - repo: nix_unstable
   srcname: claude-code
   visiblename: claude-code
-  version: 2.1.317
+  version: 2.1.318
   origversion: null
-  status: outdated
+  status: newest
   summary: Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
   maintainers:
     - alex.decious@gmail.com
@@ -190,9 +190,9 @@
   srcname: bin/claude/code
   binname: bin/claude/code
   visiblename: bin/claude/code
-  version: 2.1.317
+  version: 2.1.318
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - anton@samokhvalov.xyz
   categories:
