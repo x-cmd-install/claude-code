@@ -1,9 +1,27 @@
+- repo: homebrew_casks
+  srcname: claude-code
+  visiblename: Claude Code
+  version: 2.1.311
+  origversion: null
+  status: outdated
+  summary: Terminal-based AI coding assistant
+- repo: stalix
+  srcname: bin/claude/code
+  binname: bin/claude/code
+  visiblename: bin/claude/code
+  version: 2.1.318
+  origversion: null
+  status: outdated
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
 - repo: aur
   srcname: claude-code
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.318
-  origversion: 2.1.318-1
+  version: 2.1.319
+  origversion: 2.1.319-1
   status: newest
   summary: An agentic coding tool that lives in your terminal
   maintainers:
@@ -23,7 +41,7 @@
   srcname: misc/claude-code
   binname: claude-code
   visiblename: misc/claude-code
-  version: 2.1.318
+  version: 2.1.319
   origversion: null
   status: newest
   summary: Agentic coding tool from Anthropic that lives in your terminal
@@ -44,13 +62,6 @@
     - all-rights-reserved
   categories:
     - dev-util
-- repo: homebrew_casks
-  srcname: claude-code
-  visiblename: Claude Code
-  version: 2.1.311
-  origversion: null
-  status: outdated
-  summary: Terminal-based AI coding assistant
 - repo: liguros_stable
   srcname: dev-util/claude-code
   visiblename: dev-util/claude-code
@@ -81,7 +92,7 @@
   srcname: llm/claude-code
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.318
+  version: 2.1.319
   origversion: null
   status: newest
   summary: Claude Code -- Anthropic's agentic coding tool that lives in your terminal
@@ -145,7 +156,7 @@
   visiblename: claude-code
   version: 2.1.318
   origversion: null
-  status: newest
+  status: outdated
   summary: Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
   maintainers:
     - alex.decious@gmail.com
@@ -161,7 +172,7 @@
   subrepo: main
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.318
+  version: 2.1.319
   origversion: null
   status: newest
   licenses:
@@ -186,22 +197,11 @@
     - wdconinc@spack
   licenses:
     - Anthropic-Claude
-- repo: stalix
-  srcname: bin/claude/code
-  binname: bin/claude/code
-  visiblename: bin/claude/code
-  version: 2.1.318
-  origversion: null
-  status: newest
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
 - repo: stalix_dev
   srcname: bin/claude/code
   binname: bin/claude/code
   visiblename: bin/claude/code
-  version: 2.1.318
+  version: 2.1.319
   origversion: null
   status: newest
   maintainers:
@@ -220,5 +220,5 @@
   visiblename: Claude Code
   version: 2.1.318
   origversion: null
-  status: newest
+  status: outdated
   summary: AI-based tool made by Anthropic
