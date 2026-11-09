@@ -38,22 +38,22 @@ Total: **29,464** lines of code across **1395** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 154,934 · **Forks**: 25,606 · **Open issues**: 104,935 · **Contributors**: 71
+- **Stars**: 155,042 · **Forks**: 25,346 · **Open issues**: 105,201 · **Contributors**: 71
 
 ## Totals (cumulative)
 
-- **Releases**: 260 · **Merged PRs**: 205 · **Open PRs**: 641 · **Closed issues**: 88763 · **Open issues**: 16172 · **Commits**: 966
+- **Releases**: 260 · **Merged PRs**: 205 · **Open PRs**: 641 · **Closed issues**: 88937 · **Open issues**: 16264 · **Commits**: 966
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 20 | 4 | 1 | 1327 | 5947 | 48 |
-| last60d | 2026-09-09 | 48 | 41 | 3 | 3170 | 11700 | 197 |
-| 90d | 2026-08-10 | 77 | 43 | 7 | 8544 | 13844 | 229 |
-| last180d | 2026-05-12 | 100 | 53 | 195 | 33601 | 15159 | 322 |
-| 360d | 2025-11-13 | 100 | 101 | 628 | 77777 | 16008 | 568 |
-| last720d | 2024-11-18 | 100 | 205 | 641 | 88753 | 16172 | 966 |
+| 30d | 2026-10-10 | 19 | 4 | 1 | 1304 | 6036 | 36 |
+| last60d | 2026-09-10 | 47 | 39 | 3 | 3150 | 11720 | 112 |
+| 90d | 2026-08-11 | 76 | 43 | 7 | 8437 | 13926 | 223 |
+| last180d | 2026-05-13 | 100 | 53 | 184 | 33462 | 15246 | 317 |
+| 360d | 2025-11-14 | 100 | 101 | 628 | 77887 | 16100 | 558 |
+| last720d | 2024-11-19 | 100 | 205 | 641 | 88927 | 16264 | 966 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for claude-code lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:59:20Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:35:41Z._
