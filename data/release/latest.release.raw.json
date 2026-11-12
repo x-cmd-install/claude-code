@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 144920972,
       "digest": "sha256:0ff389f1a313f50778c2472c2f85882ca82c10156398c68cfc3c332004694646",
-      "download_count": 1243,
+      "download_count": 2843,
       "created_at": "2026-11-10T02:07:43Z",
       "updated_at": "2026-11-10T02:07:48Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.322/claude-darwin-arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 152408601,
       "digest": "sha256:7a7291c5ae01c8f8e91dc2636da43f905bd3cb52b1170229850f83f3fef194e1",
-      "download_count": 146,
+      "download_count": 271,
       "created_at": "2026-11-10T02:07:43Z",
       "updated_at": "2026-11-10T02:07:47Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.322/claude-darwin-x64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 148919181,
       "digest": "sha256:6a76c3d064b1f9af9995402a6e50498a7491eba15f48c98e0119a13b88bc2c19",
-      "download_count": 45,
+      "download_count": 76,
       "created_at": "2026-11-10T02:07:43Z",
       "updated_at": "2026-11-10T02:07:47Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.322/claude-linux-arm64-musl.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 157080712,
       "digest": "sha256:65c1ad35e804ef463f34585d0c080afd4bf2e9018c7bad1f29efb8df4e9c3750",
-      "download_count": 2417,
+      "download_count": 4147,
       "created_at": "2026-11-10T02:07:43Z",
       "updated_at": "2026-11-10T02:07:49Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.322/claude-linux-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 149672172,
       "digest": "sha256:28a7eca835d0da7a2c70d8bb4aea62e90cc7446b30a4f21505390fe9957fd58c",
-      "download_count": 52,
+      "download_count": 99,
       "created_at": "2026-11-10T02:07:42Z",
       "updated_at": "2026-11-10T02:07:48Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.322/claude-linux-x64-musl.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 157379500,
       "digest": "sha256:3d2bc5ae54d4d4cd63510e9fcca5b6d48d2b18806708df8c8f691aa486c5dca8",
-      "download_count": 26737,
+      "download_count": 40914,
       "created_at": "2026-11-10T02:07:47Z",
       "updated_at": "2026-11-10T02:07:56Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.322/claude-linux-x64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 152457870,
       "digest": "sha256:fcb9fb6f071635e3e108b8a0cfae8f634ee7be933d2c0d94d4d54da1432feab4",
-      "download_count": 71,
+      "download_count": 126,
       "created_at": "2026-11-10T02:07:47Z",
       "updated_at": "2026-11-10T02:07:52Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.322/claude-win32-arm64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 159094037,
       "digest": "sha256:f0453dac97a91f2a71b70c7cfc93cc392098056963628df84f9396a1b7a90471",
-      "download_count": 761,
+      "download_count": 1459,
       "created_at": "2026-11-10T02:07:48Z",
       "updated_at": "2026-11-10T02:07:52Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.322/claude-win32-x64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 734,
       "digest": "sha256:5d3c9d16c16ffb42aa36bd40b5839e3f3f4df7ea9936c4e3f20da6ec661e9c1c",
-      "download_count": 484,
+      "download_count": 868,
       "created_at": "2026-11-10T02:07:49Z",
       "updated_at": "2026-11-10T02:07:49Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.322/SHASUMS256.txt"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:7f4e8d7906133d35db88de3ea5925cba7f7cfff4c02c9d4c8aef4ce58d507e2f",
-      "download_count": 178,
+      "download_count": 321,
       "created_at": "2026-11-10T02:07:49Z",
       "updated_at": "2026-11-10T02:07:49Z",
       "browser_download_url": "https://github.com/anthropics/claude-code/releases/download/v2.1.322/SHASUMS256.txt.sig"
@@ -402,14 +402,14 @@
   "body": "## What's changed\n\n- Added fast mode on Vertex in the global, us and eu regions, falling back to standard speed if Vertex refuses it\n",
   "reactions": {
     "url": "https://api.github.com/repos/anthropics/claude-code/releases/439863658/reactions",
-    "total_count": 38,
-    "+1": 13,
+    "total_count": 41,
+    "+1": 14,
     "-1": 0,
     "laugh": 4,
     "hooray": 7,
     "confused": 0,
     "heart": 5,
-    "rocket": 5,
+    "rocket": 7,
     "eyes": 4
   }
 }

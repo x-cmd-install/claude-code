@@ -1,3 +1,15 @@
+- repo: freebsd
+  srcname: misc/claude-code
+  binname: claude-code
+  visiblename: misc/claude-code
+  version: 2.1.322
+  origversion: null
+  status: newest
+  summary: Agentic coding tool from Anthropic that lives in your terminal
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - misc
 - repo: aur
   srcname: claude-code
   binname: claude-code
@@ -19,18 +31,6 @@
   origversion: null
   status: outdated
   summary: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- repo: freebsd
-  srcname: misc/claude-code
-  binname: claude-code
-  visiblename: misc/claude-code
-  version: 2.1.322
-  origversion: null
-  status: newest
-  summary: Agentic coding tool from Anthropic that lives in your terminal
-  maintainers:
-    - yuri@freebsd.org
-  categories:
-    - misc
 - repo: gentoo
   srcname: dev-util/claude-code
   visiblename: dev-util/claude-code
@@ -190,9 +190,9 @@
   srcname: bin/claude/code
   binname: bin/claude/code
   visiblename: bin/claude/code
-  version: 2.1.319
+  version: 2.1.322
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - anton@samokhvalov.xyz
   categories:
@@ -218,7 +218,7 @@
 - repo: wikidata
   srcname: Q138457287
   visiblename: Claude Code
-  version: 2.1.319
+  version: 2.1.322
   origversion: null
-  status: outdated
+  status: newest
   summary: AI-based tool made by Anthropic
