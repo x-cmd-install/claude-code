@@ -2,8 +2,8 @@
   srcname: claude-code
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.323
-  origversion: 2.1.323-1
+  version: 2.1.325
+  origversion: 2.1.325-1
   status: newest
   summary: An agentic coding tool that lives in your terminal
   maintainers:
@@ -12,31 +12,6 @@
     - fabifont@aur
   licenses:
     - LicenseRef-claude-code
-- repo: stalix_dev
-  srcname: bin/claude/code
-  binname: bin/claude/code
-  visiblename: bin/claude/code
-  version: 2.1.322
-  origversion: null
-  status: outdated
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
-- repo: wikidata
-  srcname: Q138457287
-  visiblename: Claude Code
-  version: 2.1.303
-  origversion: null
-  status: legacy
-  summary: AI-based tool made by Anthropic
-- repo: wikidata
-  srcname: Q138457287
-  visiblename: Claude Code
-  version: 2.1.322
-  origversion: null
-  status: outdated
-  summary: AI-based tool made by Anthropic
 - repo: chocolatey
   binname: claude-code
   visiblename: Claude Code
@@ -56,26 +31,6 @@
     - yuri@freebsd.org
   categories:
     - misc
-- repo: slackbuilds
-  srcname: development/claude-code
-  visiblename: development/claude-code
-  version: 2.1.267
-  origversion: null
-  status: outdated
-  maintainers:
-    - nicholashubbard@posteo.net
-  categories:
-    - development
-- repo: spack
-  srcname: claude-code
-  visiblename: claude-code
-  version: 2.1.50
-  origversion: null
-  status: outdated
-  maintainers:
-    - wdconinc@spack
-  licenses:
-    - Anthropic-Claude
 - repo: gentoo
   srcname: dev-util/claude-code
   visiblename: dev-util/claude-code
@@ -89,17 +44,6 @@
     - all-rights-reserved
   categories:
     - dev-util
-- repo: stalix
-  srcname: bin/claude/code
-  binname: bin/claude/code
-  visiblename: bin/claude/code
-  version: 2.1.322
-  origversion: null
-  status: outdated
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
 - repo: homebrew_casks
   srcname: claude-code
   visiblename: Claude Code
@@ -120,6 +64,20 @@
     - all-rights-reserved
   categories:
     - dev-util
+- repo: wikidata
+  srcname: Q138457287
+  visiblename: Claude Code
+  version: 2.1.303
+  origversion: null
+  status: legacy
+  summary: AI-based tool made by Anthropic
+- repo: wikidata
+  srcname: Q138457287
+  visiblename: Claude Code
+  version: 2.1.322
+  origversion: null
+  status: outdated
+  summary: AI-based tool made by Anthropic
 - repo: liguros_develop
   srcname: dev-util/claude-code
   visiblename: dev-util/claude-code
@@ -137,9 +95,9 @@
   srcname: llm/claude-code
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.322
+  version: 2.1.325
   origversion: null
-  status: outdated
+  status: newest
   summary: Claude Code -- Anthropic's agentic coding tool that lives in your terminal
   maintainers:
     - breun@macports
@@ -217,8 +175,50 @@
   subrepo: main
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.323
+  version: 2.1.325
   origversion: null
   status: newest
   licenses:
     - Proprietary
+- repo: slackbuilds
+  srcname: development/claude-code
+  visiblename: development/claude-code
+  version: 2.1.267
+  origversion: null
+  status: outdated
+  maintainers:
+    - nicholashubbard@posteo.net
+  categories:
+    - development
+- repo: spack
+  srcname: claude-code
+  visiblename: claude-code
+  version: 2.1.50
+  origversion: null
+  status: outdated
+  maintainers:
+    - wdconinc@spack
+  licenses:
+    - Anthropic-Claude
+- repo: stalix
+  srcname: bin/claude/code
+  binname: bin/claude/code
+  visiblename: bin/claude/code
+  version: 2.1.322
+  origversion: null
+  status: outdated
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
+  srcname: bin/claude/code
+  binname: bin/claude/code
+  visiblename: bin/claude/code
+  version: 2.1.325
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
