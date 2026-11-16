@@ -1,3 +1,22 @@
+- repo: scoop
+  subrepo: main
+  binname: claude-code
+  visiblename: claude-code
+  version: 2.1.325
+  origversion: null
+  status: newest
+  licenses:
+    - Proprietary
+- repo: spack
+  srcname: claude-code
+  visiblename: claude-code
+  version: 2.1.50
+  origversion: null
+  status: outdated
+  maintainers:
+    - wdconinc@spack
+  licenses:
+    - Anthropic-Claude
 - repo: aur
   srcname: claude-code
   binname: claude-code
@@ -15,7 +34,7 @@
 - repo: chocolatey
   binname: claude-code
   visiblename: Claude Code
-  version: 2.1.309
+  version: 2.1.311
   origversion: null
   status: outdated
   summary: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
@@ -23,20 +42,30 @@
   srcname: misc/claude-code
   binname: claude-code
   visiblename: misc/claude-code
-  version: 2.1.322
+  version: 2.1.325
   origversion: null
-  status: outdated
+  status: newest
   summary: Agentic coding tool from Anthropic that lives in your terminal
   maintainers:
     - yuri@freebsd.org
   categories:
     - misc
+- repo: slackbuilds
+  srcname: development/claude-code
+  visiblename: development/claude-code
+  version: 2.1.267
+  origversion: null
+  status: outdated
+  maintainers:
+    - nicholashubbard@posteo.net
+  categories:
+    - development
 - repo: gentoo
   srcname: dev-util/claude-code
   visiblename: dev-util/claude-code
-  version: 2.1.312
+  version: 2.1.325
   origversion: null
-  status: outdated
+  status: newest
   summary: Claude Code - an agentic coding tool by Anthropic
   maintainers:
     - jayf@gentoo.org
@@ -67,9 +96,9 @@
 - repo: liguros_develop
   srcname: dev-util/claude-code
   visiblename: dev-util/claude-code
-  version: 2.1.312
+  version: 2.1.325
   origversion: null
-  status: outdated
+  status: newest
   summary: Claude Code - an agentic coding tool by Anthropic
   maintainers:
     - jayf@gentoo.org
@@ -143,7 +172,7 @@
 - repo: nix_unstable
   srcname: claude-code
   visiblename: claude-code
-  version: 2.1.322
+  version: 2.1.323
   origversion: null
   status: outdated
   summary: Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
@@ -157,35 +186,6 @@
     - xiaoxiangmoe@gmail.com
   licenses:
     - Unfree
-- repo: scoop
-  subrepo: main
-  binname: claude-code
-  visiblename: claude-code
-  version: 2.1.325
-  origversion: null
-  status: newest
-  licenses:
-    - Proprietary
-- repo: slackbuilds
-  srcname: development/claude-code
-  visiblename: development/claude-code
-  version: 2.1.267
-  origversion: null
-  status: outdated
-  maintainers:
-    - nicholashubbard@posteo.net
-  categories:
-    - development
-- repo: spack
-  srcname: claude-code
-  visiblename: claude-code
-  version: 2.1.50
-  origversion: null
-  status: outdated
-  maintainers:
-    - wdconinc@spack
-  licenses:
-    - Anthropic-Claude
 - repo: stalix
   srcname: bin/claude/code
   binname: bin/claude/code
