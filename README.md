@@ -14,11 +14,11 @@ x install claude-code
 
 ## Code insight
 
-Total: **33,408** lines of code across **1465** files in the top 5 languages.
+Total: **33,510** lines of code across **1468** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 28,282 | 21,719 | 5,750 | 1430 |
+| TypeScript | 28,384 | 21,897 | 5,759 | 1433 |
 | Xml | 1,633 | 0 | 0 | 1 |
 | Sh | 1,201 | 461 | 135 | 5 |
 | Hcl | 1,013 | 212 | 162 | 8 |
@@ -38,22 +38,22 @@ Total: **33,408** lines of code across **1465** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 155,717 · **Forks**: 25,001 · **Open issues**: 106,820 · **Contributors**: 71
+- **Stars**: 155,829 · **Forks**: 25,017 · **Open issues**: 107,021 · **Contributors**: 71
 
 ## Totals (cumulative)
 
-- **Releases**: 264 · **Merged PRs**: 205 · **Open PRs**: 636 · **Closed issues**: 90196 · **Open issues**: 16624 · **Commits**: 1024
+- **Releases**: 264 · **Merged PRs**: 205 · **Open PRs**: 636 · **Closed issues**: 90667 · **Open issues**: 16354 · **Commits**: 1027
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 20 | 4 | 1 | 1139 | 6088 | 82 |
-| last60d | 2026-09-16 | 45 | 32 | 2 | 3187 | 11920 | 151 |
-| 90d | 2026-08-17 | 75 | 43 | 4 | 8157 | 14332 | 273 |
-| last180d | 2026-05-19 | 100 | 53 | 177 | 32898 | 15600 | 364 |
-| 360d | 2025-11-20 | 100 | 98 | 620 | 78778 | 16452 | 603 |
-| last720d | 2024-11-25 | 100 | 205 | 636 | 90186 | 16624 | 1024 |
+| 30d | 2026-10-17 | 19 | 4 | 1 | 1253 | 5975 | 85 |
+| last60d | 2026-09-17 | 45 | 31 | 2 | 3283 | 11669 | 154 |
+| 90d | 2026-08-18 | 74 | 43 | 4 | 8303 | 14071 | 276 |
+| last180d | 2026-05-20 | 100 | 53 | 177 | 33084 | 15330 | 367 |
+| 360d | 2025-11-21 | 100 | 98 | 620 | 79199 | 16181 | 606 |
+| last720d | 2024-11-26 | 100 | 205 | 636 | 90657 | 16354 | 1027 |
 
 ## Release assets
 
@@ -72,11 +72,11 @@ Total: **33,408** lines of code across **1465** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/claude-code). **6** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/claude-code). **9** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `2.1.322` | ⚠️ outdated |
+| Nix unstable | `2.1.323` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -87,4 +87,4 @@ Install metadata for claude-code lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:02:55Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:07:10Z._
