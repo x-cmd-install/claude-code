@@ -1,19 +1,23 @@
-- repo: slackbuilds
-  srcname: development/claude-code
-  visiblename: development/claude-code
-  version: 2.1.267
+- repo: wikidata
+  srcname: Q138457287
+  visiblename: Claude Code
+  version: 2.1.328
   origversion: null
   status: outdated
-  maintainers:
-    - nicholashubbard@posteo.net
-  categories:
-    - development
+  summary: AI-based tool made by Anthropic
+- repo: wikidata
+  srcname: Q138457287
+  visiblename: Claude Code
+  version: 2.1.303
+  origversion: null
+  status: legacy
+  summary: AI-based tool made by Anthropic
 - repo: aur
   srcname: claude-code
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.328
-  origversion: 2.1.328-1
+  version: 2.1.329
+  origversion: 2.1.329-1
   status: newest
   summary: An agentic coding tool that lives in your terminal
   maintainers:
@@ -74,6 +78,13 @@
     - all-rights-reserved
   categories:
     - dev-util
+- repo: wikidata
+  srcname: Q138457287
+  visiblename: Claude Code
+  version: 2.1.325
+  origversion: null
+  status: legacy
+  summary: AI-based tool made by Anthropic
 - repo: liguros_develop
   srcname: dev-util/claude-code
   visiblename: dev-util/claude-code
@@ -153,7 +164,7 @@
 - repo: nix_unstable
   srcname: claude-code
   visiblename: claude-code
-  version: 2.1.325
+  version: 2.1.327
   origversion: null
   status: outdated
   summary: Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
@@ -171,11 +182,21 @@
   subrepo: main
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.328
+  version: 2.1.329
   origversion: null
   status: newest
   licenses:
     - Proprietary
+- repo: slackbuilds
+  srcname: development/claude-code
+  visiblename: development/claude-code
+  version: 2.1.267
+  origversion: null
+  status: outdated
+  maintainers:
+    - nicholashubbard@posteo.net
+  categories:
+    - development
 - repo: spack
   srcname: claude-code
   visiblename: claude-code
@@ -208,24 +229,3 @@
     - anton@samokhvalov.xyz
   categories:
     - bin
-- repo: wikidata
-  srcname: Q138457287
-  visiblename: Claude Code
-  version: 2.1.303
-  origversion: null
-  status: legacy
-  summary: AI-based tool made by Anthropic
-- repo: wikidata
-  srcname: Q138457287
-  visiblename: Claude Code
-  version: 2.1.325
-  origversion: null
-  status: legacy
-  summary: AI-based tool made by Anthropic
-- repo: wikidata
-  srcname: Q138457287
-  visiblename: Claude Code
-  version: 2.1.327
-  origversion: null
-  status: outdated
-  summary: AI-based tool made by Anthropic
