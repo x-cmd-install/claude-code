@@ -2,8 +2,8 @@
   srcname: claude-code
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.330
-  origversion: 2.1.330-1
+  version: 2.1.331
+  origversion: 2.1.331-1
   status: newest
   summary: An agentic coding tool that lives in your terminal
   maintainers:
@@ -31,6 +31,16 @@
     - yuri@freebsd.org
   categories:
     - misc
+- repo: slackbuilds
+  srcname: development/claude-code
+  visiblename: development/claude-code
+  version: 2.1.267
+  origversion: null
+  status: outdated
+  maintainers:
+    - nicholashubbard@posteo.net
+  categories:
+    - development
 - repo: gentoo
   srcname: dev-util/claude-code
   visiblename: dev-util/claude-code
@@ -47,7 +57,7 @@
 - repo: homebrew_casks
   srcname: claude-code
   visiblename: Claude Code
-  version: 2.1.323
+  version: 2.1.325
   origversion: null
   status: outdated
   summary: Terminal-based AI coding assistant
@@ -81,7 +91,7 @@
   srcname: llm/claude-code
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.330
+  version: 2.1.331
   origversion: null
   status: newest
   summary: Claude Code -- Anthropic's agentic coding tool that lives in your terminal
@@ -143,7 +153,7 @@
 - repo: nix_unstable
   srcname: claude-code
   visiblename: claude-code
-  version: 2.1.329
+  version: 2.1.330
   origversion: null
   status: outdated
   summary: Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
@@ -161,21 +171,11 @@
   subrepo: main
   binname: claude-code
   visiblename: claude-code
-  version: 2.1.330
+  version: 2.1.331
   origversion: null
   status: newest
   licenses:
     - Proprietary
-- repo: slackbuilds
-  srcname: development/claude-code
-  visiblename: development/claude-code
-  version: 2.1.267
-  origversion: null
-  status: outdated
-  maintainers:
-    - nicholashubbard@posteo.net
-  categories:
-    - development
 - repo: spack
   srcname: claude-code
   visiblename: claude-code
@@ -192,7 +192,7 @@
   visiblename: bin/claude/code
   version: 2.1.330
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - anton@samokhvalov.xyz
   categories:
@@ -201,7 +201,7 @@
   srcname: bin/claude/code
   binname: bin/claude/code
   visiblename: bin/claude/code
-  version: 2.1.330
+  version: 2.1.331
   origversion: null
   status: newest
   maintainers:
@@ -227,5 +227,5 @@
   visiblename: Claude Code
   version: 2.1.330
   origversion: null
-  status: newest
+  status: outdated
   summary: AI-based tool made by Anthropic
