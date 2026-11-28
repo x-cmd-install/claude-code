@@ -18,7 +18,7 @@ Total: **52,407** lines of code across **3332** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 46,146 | 32,250 | 9,181 | 3293 |
+| TypeScript | 46,146 | 32,249 | 9,181 | 3293 |
 | Xml | 2,650 | 0 | 0 | 1 |
 | Sh | 1,201 | 461 | 135 | 5 |
 | Hcl | 1,013 | 212 | 162 | 8 |
@@ -33,27 +33,27 @@ Total: **52,407** lines of code across **3332** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.1.332` (2026-11-25)
-- **Last commit**: 2026-11-27
+- **Last commit**: 2026-11-28
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 157,266 · **Forks**: 25,148 · **Open issues**: 109,259 · **Contributors**: 71
+- **Stars**: 157,356 · **Forks**: 25,101 · **Open issues**: 109,406 · **Contributors**: 71
 
 ## Totals (cumulative)
 
-- **Releases**: 271 · **Merged PRs**: 207 · **Open PRs**: 630 · **Closed issues**: 93402 · **Open issues**: 15857 · **Commits**: 1181
+- **Releases**: 271 · **Merged PRs**: 207 · **Open PRs**: 629 · **Closed issues**: 93514 · **Open issues**: 15892 · **Commits**: 1182
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 16 | 4 | 1 | 1535 | 5253 | 226 |
-| last60d | 2026-09-28 | 43 | 15 | 1 | 3920 | 10598 | 283 |
-| 90d | 2026-08-29 | 68 | 45 | 3 | 8377 | 13421 | 422 |
-| last180d | 2026-05-31 | 100 | 51 | 123 | 32624 | 14802 | 512 |
-| 360d | 2025-12-02 | 100 | 97 | 608 | 81159 | 15672 | 754 |
-| last720d | 2024-12-07 | 100 | 207 | 630 | 93392 | 15857 | 1181 |
+| 30d | 2026-10-29 | 16 | 4 | 1 | 1481 | 5217 | 227 |
+| last60d | 2026-09-29 | 42 | 12 | 1 | 3860 | 10563 | 284 |
+| 90d | 2026-08-30 | 68 | 45 | 3 | 8261 | 13492 | 423 |
+| last180d | 2026-06-01 | 100 | 51 | 122 | 32468 | 14875 | 513 |
+| 360d | 2025-12-03 | 100 | 97 | 607 | 81173 | 15709 | 755 |
+| last720d | 2024-12-08 | 100 | 207 | 629 | 93504 | 15892 | 1182 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for claude-code lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:39:56Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:38:41Z._
